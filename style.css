@@ -1,11 +1,11 @@
 #hi {
     text-align: center;
     margin: auto;
-    height: 160px;
 }
 
 #hi img {
     width: 25%;
+    height: 75%;
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 5%;
