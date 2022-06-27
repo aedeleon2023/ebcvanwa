@@ -1,11 +1,14 @@
 #hi {
-    text-align: center;
-    margin: auto;
+    /* text-align: center; 
+    margin: auto; */
+    height: 250px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 }
 
 #hi img {
     width: 25%;
-    height: 75%;
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 5%;
