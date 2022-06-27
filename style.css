@@ -1,6 +1,7 @@
 #hi {
     text-align: center;
     margin: auto;
+    height: 160px;
 }
 
 #hi img {
@@ -23,7 +24,7 @@ nav {
 }
 
 nav img {
-    height: 160px;
+    height: 100%;
 }
 
 
