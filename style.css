@@ -26,6 +26,10 @@ nav img {
     height: 100%;
 }
 
+nav a {
+    text-decoration: none;
+}
+
 
 h1 {
     margin-left: 5%;
