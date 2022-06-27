@@ -1,10 +1,6 @@
 #hi {
-    /* text-align: center; 
-    margin: auto; */
-    height: 250px;
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
+    text-align: center;
+    margin: auto;
 }
 
 #hi img {
