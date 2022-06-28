@@ -5,12 +5,16 @@
 
 #hi img {
     width: 25%;
+    height: 250px;
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 5%;
     margin-bottom: 5%;
 }
 
+script {
+    color: #002241;
+}
 
 nav {
     height: 250px;
