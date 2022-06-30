@@ -36,15 +36,15 @@ nav a {
 
 
 h2 {
-    margin-left: 5%;
-    margin-top: 5%;
+    margin-left: 20%;
+    margin-top: 7%;
     color: #002241;
 }
 
 
 #welcome {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     margin-inline: 10%;
     margin-bottom: 5%;
 }
