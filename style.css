@@ -35,7 +35,7 @@ nav a {
 }
 
 
-h1 {
+h2 {
     margin-left: 5%;
     margin-top: 5%;
     color: #002241;
@@ -45,7 +45,7 @@ h1 {
 #welcome {
     display: flex;
     justify-content: space-evenly;
-    margin-inline: 5%;
+    margin-inline: 10%;
     margin-bottom: 5%;
 }
 
