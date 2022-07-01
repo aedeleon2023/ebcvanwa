@@ -34,7 +34,7 @@ while (!answer) {
 
 function rating() {
 let output = "";
-for (let i = 1; i <= jesus; i++) {
+for (let i = 1; i <= tu; i++) {
     output += "<img class='score' src='images/tujesus.png'/>";
 }
 return document.write(output); 
