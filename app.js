@@ -15,4 +15,27 @@ christianSpam();
 
 
 
+let answer = false;
+let jesus = 0;
+while (!answer) {
+    let response = prompt("Which of the original twelve disciples wrote two out of the four gospels?")
+    if (response === "Matthew and John" || "John and Matthew" || "John, Matthew" || "Matthew, John" || "Matthew John" || "John Matthew") {
+        alert("You are right!  Great Job!");
+        jesus += 4;
+        break;
+    } else if (response === "Matthew" || "John") {
+        alert("You are half right.  Matthew and John is the answer.");
+        jesus += 2;
+        break;
+    } else {
+        alert("Nope, try again.")
+    }
+}
 
+function rating() {
+let output = "";
+for (let i = 1; i <= jesus; i++) {
+    output += "<img class='score' src='images/tujesus.png'/>";
+}
+return document.write(output); 
+}
