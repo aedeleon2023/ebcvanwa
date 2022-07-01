@@ -34,7 +34,11 @@ while (!answer) {
 
 function rating() {
 let output = "";
+<<<<<<< HEAD
 for (let i = 1; i <= output; i++) {
+=======
+for (let i = 1; i <= tu; i++) {
+>>>>>>> e84b669f6e9685fa221d5a618a2126a6ff5deab6
     output += "<img class='score' src='images/tujesus.png'/>";
 }
 return document.write(output); 
