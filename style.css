@@ -15,12 +15,12 @@ script {
 }
 
 nav {
-    height: 250px;
+    height: 350px;
     background-color: #DFFBFF;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    font-size: 25px;
+    font-size: 30px;
     color: #002241;
 }
 
@@ -37,6 +37,8 @@ h2 {
     margin-left: 20%;
     margin-top: 7%;
     color: #002241;
+    font-weight: bolder;
+    font-size: xx-large;
 }
 
 
@@ -45,10 +47,10 @@ h2 {
     justify-content: space-around;
     margin-inline: 10%;
     margin-bottom: 5%;
+    font-size: 20px;
 }
 
 #welcome img {
-    /* height: 300px; */
     margin-inline: 5%;
 }
 
