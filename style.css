@@ -4,8 +4,6 @@
 }
 
 #hi img {
-    width: 25%;
-    height: 250px;
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 5%;
@@ -50,7 +48,7 @@ h2 {
 }
 
 #welcome img {
-    height: 300px;
+    /* height: 300px; */
     margin-inline: 5%;
 }
 
